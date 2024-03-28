@@ -1,0 +1,60 @@
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #000000;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #17072b;
+    color: #FFFFFF;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-family: "Tahoma", sans-serif;
+    font-weight: 700;
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px 0;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    color: #17072b;
+}
+
+footer {
+    background-color: #8c15e9;
+    color: #FFFFFF;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+}
